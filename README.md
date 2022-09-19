@@ -1,4 +1,4 @@
-# Web Design Homework - Web Visualization Dashboard (Latitude)
+# Web Design - Web Visualization Dashboard (Latitude)
 
 ## Background
 
@@ -89,7 +89,7 @@ Large screen:
 Small screen:
 
 ![Landing page small screen](Images/landing-sm.png)
-�?
+ï¿?
 #### <a id="comparisons-page"></a>Comparisons page
 
 Large screen:
@@ -139,8 +139,8 @@ Small screen:
 
 ## References
 
-OpenWeatherMap.org. (2012). Сurrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
+OpenWeatherMap.org. (2012). Ð¡urrent weather and forecast. Retrieved from [https://openweathermap.org/](https://openweathermap.org/)
 
 - - -
 
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Â© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
